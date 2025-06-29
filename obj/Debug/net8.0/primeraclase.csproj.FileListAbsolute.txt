@@ -1,0 +1,14 @@
+C:\Users\Public\Documents\dotnet\primeraclase\bin\Debug\net8.0\primeraclase.exe
+C:\Users\Public\Documents\dotnet\primeraclase\bin\Debug\net8.0\primeraclase.deps.json
+C:\Users\Public\Documents\dotnet\primeraclase\bin\Debug\net8.0\primeraclase.runtimeconfig.json
+C:\Users\Public\Documents\dotnet\primeraclase\bin\Debug\net8.0\primeraclase.dll
+C:\Users\Public\Documents\dotnet\primeraclase\bin\Debug\net8.0\primeraclase.pdb
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.AssemblyInfo.cs
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.dll
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\refint\primeraclase.dll
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.pdb
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\primeraclase.genruntimeconfig.cache
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net8.0\ref\primeraclase.dll
