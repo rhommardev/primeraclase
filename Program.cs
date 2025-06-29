@@ -2,7 +2,7 @@
 using System.Data;
 using primeraclase.models;
 
-
+/*
 Pessoa pessoa1 = new Pessoa();
 pessoa1.Nome = "João";
 pessoa1.Idade = 30;
@@ -36,3 +36,5 @@ Console.WriteLine("O carro está ligado? " + estaLigado);
 // Manipulação de datas
 DateTime dataHora = DateTime.Now.AddDays(5).AddHours(2).AddMinutes(30);
 Console.WriteLine(dataHora.ToString("dd/MM/yyyy HH:mm:ss"));
+*/
+
