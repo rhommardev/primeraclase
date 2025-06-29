@@ -43,3 +43,4 @@ carro.DatosDeUmCarro = "Parati";
 carro.Marca = "Volkswagen";
 carro.Ano = 2020;
 carro.Preco = 50000.00;
+carro.MostrarDatos();

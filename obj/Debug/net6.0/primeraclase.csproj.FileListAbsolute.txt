@@ -12,3 +12,4 @@ C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net6.0\refint\primeracla
 C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net6.0\primeraclase.pdb
 C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net6.0\primeraclase.genruntimeconfig.cache
 C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net6.0\ref\primeraclase.dll
+C:\Users\Public\Documents\dotnet\primeraclase\obj\Debug\net6.0\primeraclase.sourcelink.json
