@@ -12,5 +12,11 @@ namespace primeraclase.models
         public string Marca? { get; set; }
         public int Ano { get; set; }
         public double Preco { get; set; }
+
+        public void MostrarDatos()
+        {
+            Console.WriteLine($"Marca: {Marca}, Ano: {Ano}, Preço: {Preco:C}");
+        }   
     }
 }
+

@@ -38,3 +38,8 @@ DateTime dataHora = DateTime.Now.AddDays(5).AddHours(2).AddMinutes(30);
 Console.WriteLine(dataHora.ToString("dd/MM/yyyy HH:mm:ss"));
 */
 
+TiposDeDatos carro = new TiposDeDatos();
+carro.DatosDeUmCarro = "Parati";
+carro.Marca = "Volkswagen";
+carro.Ano = 2020;
+carro.Preco = 50000.00;
