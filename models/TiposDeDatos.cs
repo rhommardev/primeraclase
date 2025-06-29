@@ -8,14 +8,14 @@ namespace primeraclase.models
     public class TiposDeDatos
     {
         //usando tipos de datos primitivos en C# para criacao de um objeto
-        public string DatosDeUmCarro { get; set; }
-        public string Marca { get; set; }
+        public string? DatosDeUmCarro { get; set; }
+        public string? Marca { get; set; }
         public int Ano { get; set; }
         public double Preco { get; set; }
 
         public void MostrarDatos()
         {
-            Console.WriteLine($"Marca: {Marca}, Ano: {Ano}, Preço: {Preco:C}");
+            Console.WriteLine($"Este auto es um : {DatosDeUmCarro}, Marca: {Marca}, Ano: {Ano}, Preço: {Preco:C}");
         }   
     }
 }
