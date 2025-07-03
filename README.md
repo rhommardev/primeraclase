@@ -8,7 +8,7 @@ Este repositorio contiene ejercicios y mini proyectos que estoy realizando duran
 - .Net version 6.0
 - C#
 
-##Esrudos:
+##Estudos:
 - Clases
 - Objetos
 - Tipos de datos
